@@ -1,0 +1,4 @@
+AsciiRayTracer/x64/
+*.exe
+*.pdb
+.vs/
